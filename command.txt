@@ -1,0 +1,1 @@
+fdiTree "/workspace/daleks/FDI/simulation/results6/train_1.csv" "/workspace/daleks/FDI/simulation/results6/test_1.csv" "/workspace/daleks/FDI/simulation/results6/pfmc_1.txt" 4.9 0.5 10 5 10
